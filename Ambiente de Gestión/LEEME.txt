@@ -9,3 +9,16 @@ Es esta carpeta será incluida la siguiente información:
 4.- Versiones de código fuente
 
 
+Herramientas utilizadas para el desarrollo de software
+
+IDE Dreamweaver
+Utilizado para realizar la codificación e integracion con las otras plataformas GitHub y Slack
+
+GitHub para control de versiones
+Enlace disponible: https://github.com/rfc81/control_hitos
+
+Slack utilizado como plataforma de comunicacion (el usuario debe ser invitado a ser parte de este grupo) 
+https://ingenieria-software.slack.com/
+
+
+
