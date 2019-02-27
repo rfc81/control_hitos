@@ -1,0 +1,11 @@
+
+SISTEMA CONTROL DE HITOS
+===================================================================
+Es esta carpeta será incluida la siguiente información:
+
+1.- Indicar las herramientas utilizadas para el ambiente de desarrollo 
+2.- Fases del proyecto
+3.- Versiones de documentos
+4.- Versiones de código fuente
+
+

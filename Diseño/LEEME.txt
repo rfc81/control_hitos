@@ -1,0 +1,9 @@
+
+SISTEMA CONTROL DE HITOS
+===================================================================
+Es esta carpeta será incluida la siguiente información:
+
+1.- Diagramas 
+2.- HCI
+
+

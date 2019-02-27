@@ -1,0 +1,11 @@
+
+SISTEMA CONTROL DE HITOS
+===================================================================
+Es esta carpeta será incluida la siguiente información:
+
+1.- Casos de Uso 
+2.- Diagramas
+3.- Modelos
+4.- Requerimientos
+
+

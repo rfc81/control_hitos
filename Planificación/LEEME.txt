@@ -1,0 +1,14 @@
+
+SISTEMA CONTROL DE HITOS
+===================================================================
+Es esta carpeta será incluida la siguiente información:
+
+1.- Contexto (incluye objetivos)
+2.- Ciclo de vida
+3.- Fases
+4.- Estimacion de Esfuerzo
+
+
+
+
+

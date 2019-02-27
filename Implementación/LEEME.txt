@@ -1,0 +1,11 @@
+
+SISTEMA CONTROL DE HITOS
+===================================================================
+Es esta carpeta será incluida la siguiente información:
+
+1.- Interfaz sistema en funcionamiento
+2.- Manuales
+
+
+
+
